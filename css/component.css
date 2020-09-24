@@ -9,7 +9,6 @@ body {
 }
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 
-//colors
 $red: #E1332D;
 $white: #fff;
 
@@ -479,27 +478,27 @@ Generate "lighting" using box shadows
 Posters and still images
 **************************************/
 
-/* .scene:nth-child(1) .movie .poster {
+.scene.image :nth-child(1) .movie .poster {
   background-image: url(../img/poster01.jpg);
 }
 
-.scene:nth-child(2) .poster {
+.scene.image:nth-child(2) .poster {
   background-image: url(../img/poster02.jpg);
 }
 
-.scene:nth-child(3) .poster {
+.scene.image:nth-child(3) .poster {
   background-image: url(../img/poster03.jpg);
 }
 
-.scene:nth-child(1) .info header {
+/* .scene.image:nth-child(1) .info header {
 	background-image: url(../img/still01.jpg);
 }
 
-.scene:nth-child(2) .info header {
+.scene.image:nth-child(2) .info header {
 	background-image: url(../img/beg_borrow.jpg);
 }
 
-.scene:nth-child(3) .info header {
+.scene.image:nth-child(3) .info header {
 	background-image: url(../img/still03.jpg);
 } */
 
